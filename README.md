@@ -1,0 +1,2 @@
+# max31855json
+This arduino project implements a G-Code quasi interface for sending commands. I have implemented it to support the playing with fusion quad channel thermocouple boards. I have only tested it with one board, but it should work with both. You can turn on a streaming json mode which can be used by a controlling application. I have used it with a fork of picoReflow on a raspberry pi.
